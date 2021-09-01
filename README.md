@@ -4,7 +4,7 @@ ao menos 10%.
 
 Realizando um teste de hipótese, temos evidências que essa afirmação é verdadeira?
 
-Dependências
-# seaborn
-# matplotlib
-# pandas
+# Dependências
+- seaborn
+- matplotlib
+- pandas
