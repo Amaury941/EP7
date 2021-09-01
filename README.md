@@ -3,3 +3,8 @@ Em uma sala foram medidos os pulsos de 46 estudantes antes e depois dos mesmos c
 ao menos 10%.
 
 Realizando um teste de hipótese, temos evidências que essa afirmação é verdadeira?
+
+Dependências
+# seaborn
+# matplotlib
+# pandas
